@@ -26,7 +26,6 @@ app.use("/api/coupons", couponRoutes);
 app.use("/api/payments", paymentRoutes);
 app.use("/api/analytics", analyticsRoutes);
 
-
 const server = app.listen(PORT, () => {
   console.log("Server is running on http://localhost:" + PORT);
   connectDB();
