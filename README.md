@@ -1,0 +1,1 @@
+This Project is an E-Commerce website which allows user to buy and sell goods.
